@@ -5,11 +5,11 @@ def calculate_volume_of_sphere(radius):
 
 
 # Test cases
-radius1 = 30
+radius1 = 35
 area1 = calculate_volume_of_sphere(radius1)
 print(f"The volume of a sphere with a radius of {radius1} is: {area1}")
 
-radius2 = 40
+radius2 = 45
 area2 = calculate_volume_of_sphere(radius2)
 print(f"The volume of a sphere with a radius of {radius2} is: {area2}")
 
